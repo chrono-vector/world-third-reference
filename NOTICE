@@ -1,0 +1,13 @@
+WORLD THIRD Public Reference
+Copyright (c) 2026 Chrono Faith X
+
+This package is an educational/reference implementation illustrating separation among capability, authorization, enforcement, execution evidence, verification, human judgment, independent-witness status, canonical designation, and publication decisions.
+
+It does not include operational credentials, real authority-instance evidence, production identities, private keys, audit/freeze packs, or private repository history.
+
+No certification, regulatory approval, production-security guarantee, independent-audit acceptance, operational authorization, or proof of external truth is provided.
+
+Licensed under the Apache License, Version 2.0.
+See the LICENSE file distributed with this work for full license text.
+
+Third-party code is not intentionally vendored in this package.
