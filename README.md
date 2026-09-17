@@ -23,6 +23,13 @@ State ≠ Evidence
 Classification ≠ Verdict
 ```
 
+## Start here
+
+- `QUICKSTART.md`
+- `ARCHITECTURE.md`
+- `examples/basic_flow.py`
+- `examples/publication_separation.py`
+
 ## What this reference demonstrates
 
 This package is an educational/reference implementation. It includes:
