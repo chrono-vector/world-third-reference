@@ -18,7 +18,7 @@ Human ACCEPTED ≠ IW ACCEPTED
 Human ACCEPTED ≠ Canonical
 IW ACCEPTED ≠ Canonical
 Canonical ≠ Publication
-APPROVED_FOR_PUBLICATION ≠ publication performed
+APPROVED_FOR_PUBLICATION ≠ PUBLICATION_PERFORMED
 State ≠ Evidence
 Classification ≠ Verdict
 ```
@@ -27,6 +27,7 @@ Classification ≠ Verdict
 
 - `QUICKSTART.md`
 - `ARCHITECTURE.md`
+- `V03_REFERENCE.md` — public-safe v0.3 concepts and boundaries
 - `examples/basic_flow.py`
 - `examples/publication_separation.py`
 
@@ -40,10 +41,11 @@ This package is an educational/reference implementation. It includes:
 - read-only authority-presence reconstruction
 - synthetic tests
 - public-facing boundary and nonclaim documentation
+- v0.3 public-safe guidance for authority identity, publication decision/execution separation, and multi-axis reconstruction
 
-It does not include operational authority bridges, real evidence, real identities, private enforcement topology, credentials, or publication machinery.
+It does not include operational authority bridges, real evidence, real identities, private enforcement topology, credentials, production key custody, or production publication machinery.
 
-See `BOUNDARIES_AND_NONCLAIMS.md` for the full nonclaim set.
+See `BOUNDARIES_AND_NONCLAIMS.md` and `V03_REFERENCE.md` for the public boundary and nonclaim set.
 
 ## Tests
 
