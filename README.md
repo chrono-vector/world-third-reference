@@ -53,6 +53,8 @@ From this directory:
 PYTHONPATH=src python -m pytest -q
 ```
 
+Pull requests are checked automatically with pytest on supported Python versions.
+
 ## License
 
 Licensed under the Apache License 2.0. See `LICENSE`.
